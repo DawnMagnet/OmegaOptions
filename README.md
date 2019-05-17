@@ -1,0 +1,2 @@
+# OmegaOptions
+SwitchOmega settings
